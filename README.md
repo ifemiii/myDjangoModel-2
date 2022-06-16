@@ -1,0 +1,1 @@
+# myDjangoModel-2
